@@ -1,0 +1,11 @@
+body{
+    background-color:rgb(233, 211, 211);
+}img {
+    display: block;
+    margin:auto;
+}p{
+    text-align: center;
+}h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
